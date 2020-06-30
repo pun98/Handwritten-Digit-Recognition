@@ -1,5 +1,5 @@
 # Handwritten-Digit-Recognition
-Working on MNIST dataset for digit recognition.
+Working on MNIST dataset for digit recognition. Dataset available in tensorflow library.
 # Environment
 -> MacOS Catalina 10.15.3 for implementation
 
