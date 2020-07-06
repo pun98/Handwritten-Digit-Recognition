@@ -7,4 +7,4 @@ Working on MNIST dataset for digit recognition. Dataset available in tensorflow 
 
 -> Tensorflow
 # Accuracy
-The model acheived an accuracy of 98.41 using Convolution Neural Network.
+The model acheived an overall accuracy of 98.41 using Convolution Neural Network.
